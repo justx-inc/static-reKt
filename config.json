@@ -1,0 +1,22 @@
+{
+  "currancy":[
+    {
+      "id":1001,
+      "name":"Bitcoin",
+      "symbol":"BTC",
+      "icon":""
+    },
+    {
+      "id":1002,
+      "name":"Ethereum",
+      "symbol":"ETH",
+      "icon":""
+    },
+    {
+      "id":1016,
+      "name":"USD Tether",
+      "symbol":"USDT",
+      "icon":""
+    }
+  ]
+}
