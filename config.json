@@ -1,5 +1,6 @@
 {
-  "currancy":[
+  "version":1,
+  "currency":[
     {
       "id":1001,
       "name":"Bitcoin",
