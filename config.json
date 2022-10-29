@@ -5,19 +5,22 @@
       "id":1001,
       "name":"Bitcoin",
       "symbol":"BTC",
-      "icon":""
+      "icon":"",
+      "precision":8
     },
     {
       "id":1002,
       "name":"Ethereum",
       "symbol":"ETH",
-      "icon":""
+      "icon":"",
+      "precision":8
     },
     {
       "id":1016,
       "name":"USD Tether",
       "symbol":"USDT",
-      "icon":""
+      "icon":"",
+      "precision":8
     }
   ]
 }
