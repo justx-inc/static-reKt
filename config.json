@@ -6,21 +6,24 @@
       "name":"Bitcoin",
       "symbol":"BTC",
       "icon":"",
-      "precision":8
+      "precision":8,
+      "colors":["#FF6060", "#DB3443", "#FF9287"]
     },
     {
       "id":1002,
       "name":"Ethereum",
       "symbol":"ETH",
       "icon":"",
-      "precision":8
+      "precision":8,
+      "colors":["#FF6060", "#DB3443", "#FF9287"]
     },
     {
       "id":1016,
       "name":"USD Tether",
       "symbol":"USDT",
       "icon":"",
-      "precision":8
+      "precision":8,
+      "colors":["#FF6060", "#DB3443", "#FF9287"]
     }
   ]
 }
