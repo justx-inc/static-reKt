@@ -9,7 +9,8 @@
       "precision":8,
       "color":"#FF2B2B",
       "colorGradient":["#FF4FDC", "#FFBA44"],
-      "isFiat":false
+      "isFiat":false,
+      "visible":true
     },
     {
       "id":1002,
@@ -19,7 +20,8 @@
       "precision":8,
       "color":"#0051FF",
       "colorGradient":["#00BFFF", "#894AFF"],
-      "isFiat":false
+      "isFiat":false,
+      "visible":true
     },
     {
       "id":1016,
@@ -29,7 +31,8 @@
       "precision":8,
       "color":"#00D797",
       "colorGradient":["#51E432", "#00AAFF"],
-      "isFiat":false
+      "isFiat":false,
+      "visible":true
     },
     {
       "id":410,
@@ -39,7 +42,8 @@
       "precision":0,
       "color":"#00D797",
       "colorGradient":["#51E432", "#00AAFF"],
-      "isFiat":true
+      "isFiat":true,
+      "visible":false
     }
   ]
 }
