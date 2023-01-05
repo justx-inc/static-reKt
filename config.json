@@ -1,49 +1,36 @@
 {
-  "version":2,
+  "version":3,
   "currency":[
     {
-      "id":1001,
-      "name":"비트코인",
-      "symbol":"BTC",
-      "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_bitcoin.png",
-      "precision":8,
-      "color":"#FF2B2B",
-      "colorGradient":["#FF4FDC", "#FFBA44"],
-      "isFiat":false,
-      "visible":true
-    },
-    {
-      "id":1002,
       "name":"이더리움",
       "symbol":"ETH",
       "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_ethereum.png",
       "precision":8,
-      "color":"#0051FF",
-      "colorGradient":["#00BFFF", "#894AFF"],
-      "isFiat":false,
-      "visible":true
+      "color":"#8E8E8E"
     },
     {
-      "id":1016,
+      "name":"Wrapped Ethereum",
+      "symbol":"WETH",
+      "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_wrapped_ethereum.png",
+      "color":"#8E8E8E"
+    },
+    {
       "name":"테더",
       "symbol":"USDT",
       "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_usdt.png",
-      "precision":8,
-      "color":"#00D797",
-      "colorGradient":["#51E432", "#00AAFF"],
-      "isFiat":false,
-      "visible":true
+      "color":"#00D37A"
     },
     {
-      "id":410,
-      "name":"원화",
-      "symbol":"KRW",
-      "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_usdt.webp",
-      "precision":0,
-      "color":"#00D797",
-      "colorGradient":["#51E432", "#00AAFF"],
-      "isFiat":true,
-      "visible":false
+      "name":"USD Coin",
+      "symbol":"USDC",
+      "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_usdc.png",
+      "color":"#318CFF"
+    },
+    {
+      "name":"다이",
+      "symbol":"DAI",
+      "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_dai.png",
+      "color":"#FFBC00"
     }
   ]
 }
