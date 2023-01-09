@@ -13,6 +13,7 @@
       "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_wrapped_bitcoin.png",
       "color":"#FF4F2B"
     },
+    {
       "name":"이더리움",
       "symbol":"ETH",
       "icon":"https://cdn.jsdelivr.net/gh/justx-inc/static-rekt/symbols/ic_ethereum.png",
